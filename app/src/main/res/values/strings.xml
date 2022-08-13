@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_email">Not a valid E-Mail</string>
+    <string name="invalid_field">Must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="signup_failed">"Signup failed"</string>
+    <string name="products_failed">"Products failed"</string>
+</resources>
